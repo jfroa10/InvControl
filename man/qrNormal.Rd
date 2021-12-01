@@ -33,5 +33,5 @@ This function gets the optimal order quantity Q and the reorder point R with a N
 All time units must be the same (year, month, day, etc.).
 }
 \examples{
-qrNormal(100,2.83,32,5,4,10,0.5,TRUE)
+qrNormal(10,2.83,32,5,4,10,0.5,TRUE)
 }
